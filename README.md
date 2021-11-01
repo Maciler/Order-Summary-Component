@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![My Solution Screenshot](./screenshot.jpg)
+![My Solution Screenshot](images/screenshot.png)
 
 
 ### Links
