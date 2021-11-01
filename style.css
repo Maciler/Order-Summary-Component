@@ -1,0 +1,56 @@
+.bg {
+    background-image: url("images/pattern-background-desktop.svg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading {
+    margin-bottom: 0.75rem;
+    font-weight: 900 !important;
+
+}
+.bg-div {
+    background-color: hsl(225, 100%, 98%) !important;
+ }
+ .annual {
+    font-weight: 700 !important;
+ } 
+ .button1 {
+    background-color:  hsl(245, 75%, 52%)!important;
+    font-weight: 700 !important;
+ }
+ .button1:hover {
+     background-color: hsl(224, 23%, 55%)!important ;
+ }
+.button2 {
+    color: #6c757d !important;
+    font-weight: 700 !important;
+
+}
+.button2:hover {
+    color: #000000 !important;
+}
+
+.round {
+    border-radius: 1rem  !important;
+}
+.rounded-top {
+    border-top-left-radius: 1rem !important;
+    border-top-right-radius: 1rem!important;
+}
+
+.btn-link {
+    color: hsl(245, 75%, 52%);
+    font-weight: bold;
+}
+.btn-link:hover {
+    text-decoration: underline;
+}
+body {
+    font-family: 'Red Hat Display';
+}
+p {
+    font-weight: 500 !important;
+    font-size: 16px !important;
+}
