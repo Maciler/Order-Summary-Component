@@ -16,7 +16,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
     - [Continued development](#continued-development)
     - [Useful resources](#useful-resources)
   - [Author](#author)
-  - [Author](#author-1)
 
 
 
@@ -45,14 +44,12 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
 - Bootstrap 4 - CSS library
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
-To see how you can add code snippets, see below:
+Centering content fllexboxo css:
 
 ```html
     <div class="d-flex vh-100">
@@ -80,14 +77,3 @@ To see how you can add code snippets, see below:
 - Website - [Maciler Charity]()
 - Frontend Mentor - [@Maciler](https://www.frontendmentor.io/profile/Maciler)
 - Twitter - [@_Maciler](https://www.twitter.com/_Maciler)
-
-
-
-## Author
-
-- Frontend Mentor - [@Maciler](https://www.frontendmentor.io/profile/Maciler)
-- Twitter - [@_Maciler](https://www.twitter.com/_Maciler)
-
-
-
-
